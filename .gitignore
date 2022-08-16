@@ -1,0 +1,6 @@
+bin
+pkg
+*.sw?
+.*.sw?
+*.py?
+.DS_Store
